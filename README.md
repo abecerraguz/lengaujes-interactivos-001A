@@ -1,3 +1,38 @@
+# Hitos de la asignatura
+
+## Experiencia 1
+Estableciendo las bases para trabajar con JavaScript
+
+| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
+|--------|-----------|----------|----------|----------|----------|
+| 1      | Formativa 1 | Individual | 0% | Martes 06 de agosto | Lunes 12 de agosto |
+| 2      | Sumativa 1 | Individual | 👉 &#124; 30% | Martes 13 de agosto | Lunes 19 de agosto |
+
+## Experiencia 2
+Aplicando JavaScript para intervenir los elementos del DOM
+
+| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
+|--------|-----------|----------|----------|----------|----------|
+| 3     | Formativa 2 | Individual | 0% | Martes 20 de agosto | Lunes 26 de agosto |
+| 4     | Formativa 3 | Individual | 0% | Martes 27 de agosto | Lunes 02 de septiembre |
+| 5     | Formativa 4 | Individual | 0% | Martes 03 de septiembre | Lunes 09 de septiembre |
+| 6     | Sumativa 2 | Individual | 👉 &#124; 40% | Martes 10 de septiembre | Lunes 16 de septiembre |
+
+## Experiencia 3
+Optimizando la programación de un sitio web
+
+| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
+|--------|-----------|----------|----------|----------|----------|
+| 7    | Formativa 5 | Individual | 0% | Martes 17 de septiembre | Lunes 23 de septiembre |
+| 8    | Sumativa 3 | Individual o Grupal | 👉 &#124; 30% | Martes 24 de septiembre | Lunes 30 de septiembre |
+
+
+## Evaluación Final Transversal
+| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
+|--------|-----------|----------|----------|----------|----------|
+| 9    | Sumativa | Individual | 👉 &#124; 40% | Miércoles 25 de septiembre | Domingo 06 de octubre |
+
+
 # Aprendiendo JavaScript
 
 Guía completa para aprender JavaScript desde cero.
@@ -87,41 +122,3 @@ A medida que avanzas en la guía, es recomendable practicar los conceptos aprend
 ```javascript
 console.log("Hola, mundo!");
 ```
-
-# Hitos de la asignatura
-
-## Experiencia 1
-Estableciendo las bases para trabajar con JavaScript
-
-| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
-|--------|-----------|----------|----------|----------|----------|
-| 1      | Formativa 1 | Individual | 0% | Martes 06 de agosto | Lunes 12 de agosto |
-| 2      | Sumativa 1 | Individual | 👉 &#124; 30% | Martes 13 de agosto | Lunes 19 de agosto |
-
-## Experiencia 2
-Aplicando JavaScript para intervenir los elementos del DOM
-
-| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
-|--------|-----------|----------|----------|----------|----------|
-| 3     | Formativa 2 | Individual | 0% | Martes 20 de agosto | Lunes 26 de agosto |
-| 4     | Formativa 3 | Individual | 0% | Martes 27 de agosto | Lunes 02 de septiembre |
-| 5     | Formativa 4 | Individual | 0% | Martes 03 de septiembre | Lunes 09 de septiembre |
-| 6     | Sumativa 2 | Individual | 👉 &#124; 40% | Martes 10 de septiembre | Lunes 16 de septiembre |
-
-## Experiencia 3
-Optimizando la programación de un sitio web
-
-| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
-|--------|-----------|----------|----------|----------|----------|
-| 7    | Formativa 5 | Individual | 0% | Martes 17 de septiembre | Lunes 23 de septiembre |
-| 8    | Sumativa 3 | Individual o Grupal | 👉 &#124; 30% | Martes 24 de septiembre | Lunes 30 de septiembre |
-
-
-## Evaluación Final Transversal
-| Semana | Actividad | Tipo | Ponderación | Fecha de inicio | Fecha de termino |
-|--------|-----------|----------|----------|----------|----------|
-| 9    | Sumativa | Individual | 👉 &#124; 40% | Miércoles 25 de septiembre | Domingo 06 de octubre |
-
-
-
-
